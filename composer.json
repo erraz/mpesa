@@ -11,13 +11,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "moses gathuku",
-            "email": "mosesgathuku95@gmail.com"
+            "name": "Erraz O",
+            "email": "info@erranium.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-      "php": "^7.1|^8.1",
+      "php": "^7.1|^8.0|^8.1",
       "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
